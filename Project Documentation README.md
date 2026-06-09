@@ -102,7 +102,7 @@ The project includes the following visualizations:
 ├── Loan_dataset-2024.csv
 ├── Main Project Visualisation.ipynb
 ├── Cleaned_Loan_data.csv
-└── README.md
+└── Project Documentation README.md
 ```
 
 ## Installation
