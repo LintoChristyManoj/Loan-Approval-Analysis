@@ -52,7 +52,7 @@ The notebook includes:
 The project includes the following visualizations:
 
 - Loan Approval Distribution (Pie Chart)
-<img width="426" height="447" alt="Screenshot 2026-06-09 221050" src="https://github.com/user-attachments/assets/eac4ec9c-09e6-4011-8f99-a52651521dbb" />
+  <img width="426" height="447" alt="Screenshot 2026-06-09 221050" src="https://github.com/user-attachments/assets/eac4ec9c-09e6-4011-8f99-a52651521dbb" />
 
 - Credit History vs Loan Status (Count Plot)
   <img width="620" height="419" alt="Screenshot 2026-06-09 221218" src="https://github.com/user-attachments/assets/9d459112-a6e6-474b-b91a-2cf3a34f6b8c" />
