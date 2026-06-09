@@ -86,7 +86,7 @@ jupyter notebook
 3. Open:
 
 ```text
-Main Project Visualisation.ipynb
+Loan Approval Analysis and Prediction.ipynb
 ```
 
 4. Run all cells.
