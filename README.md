@@ -47,13 +47,21 @@ This project analyzes loan applicant data to identify factors affecting loan app
 
 ## Visualizations
 The notebook includes:
-- Loan Approval Distribution
-- Credit History vs Loan Status
-- Income Distribution
-- Loan Amount Analysis
-- Property Area Analysis
-- Correlation Heatmap
-- Approval Rate Comparisons
+## Visualizations
+
+The project includes the following visualizations:
+
+- Loan Approval Distribution (Pie Chart)
+- Credit History vs Loan Status (Count Plot)
+- Applicant Income Distribution (Histogram)
+- Loan Amount Distribution by Gender (Violin Plot)
+- Income Category vs Loan Status (Count Plot)
+- Property Area vs Loan Status (100% Stacked Bar Chart)
+- Applicant Income vs Loan Amount (Scatter Plot)
+- Income Comparison by Loan Status (Box Plots)
+- Approval Rate by Dependents (Lollipop Chart)
+- Approval Rate by Loan Term (Line Chart)
+- Marital Status and Education Approval Heatmap
 
 ## Files Included
 ```text
