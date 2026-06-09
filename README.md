@@ -96,4 +96,4 @@ This project demonstrates a complete loan approval analytics workflow including 
 
 ## Author
 
-Your Name
+Linto Christy Manoj
